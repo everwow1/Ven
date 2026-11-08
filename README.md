@@ -12,8 +12,7 @@ Tabs, address bar and downloads in a custom borderless window.
 Local accounts with a profile picture and banner.
 Your choice of search engine: DuckDuckGo, Google or Brave.
 Simple installer that installs for your Windows user only, and can repair or uninstall Ven.
-Screenshots
-<p align="center"> <img src="assets/browser.png" alt="Ven browser" width="800"><br> <sub>Ven browser: a clean dark workspace</sub> </p> <p align="center"> <img src="assets/setup.png" alt="Ven setup" width="640"><br> <sub>Ven Setup: install, repair or uninstall</sub> </p>
+Sc
 Download and install
 Go to the Releases page and download the latest VenSetup.zip.
 Extract the zip.
